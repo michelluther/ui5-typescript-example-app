@@ -1,0 +1,15 @@
+{
+  "generator-ui5-ts-app": {
+    "application": "typescriptExampleApp",
+    "namespace": "com.michelsplayground",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.102.13",
+    "author": "Michel Luther",
+    "initrepo": false,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.102.13",
+    "appId": "com.michelsplayground.typescriptExampleApp",
+    "appURI": "com/michelsplayground/typescriptExampleApp",
+    "setupCompleted": true
+  }
+}
